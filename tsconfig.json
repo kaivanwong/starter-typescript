@@ -11,11 +11,9 @@
     "strict": true,
     "strictNullChecks": true,
     "resolveJsonModule": true,
-    "noEmit": true,
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
-    "allowSyntheticDefaultImports": true,
-    "allowImportingTsExtensions": true
+    "allowSyntheticDefaultImports": true
   },
   "exclude": [
     "node_modules",
