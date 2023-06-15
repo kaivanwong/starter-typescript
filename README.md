@@ -1,10 +1,24 @@
 # Starter TypeScript
 
-Starter template for TypeScript library
+Starter template for TypeScript library.
 
-## Thanks
+## Usage
 
-This project is based on [@antfu/starter-ts](https://github.com/antfu/starter-ts)
+Clone the git repository.
+
+```sh
+git clone https://github.com/kaivanwong/starter-typescript.git
+
+cd starter-typescript
+```
+
+Use `pnpm` for package management.
+
+```sh
+npm i pnpm -g
+
+pnpm i
+```
 
 ## License
 
